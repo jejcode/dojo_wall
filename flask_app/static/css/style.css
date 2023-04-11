@@ -1,0 +1,4 @@
+div#all_posts {
+    height: 500px;
+    overflow: auto;
+}
